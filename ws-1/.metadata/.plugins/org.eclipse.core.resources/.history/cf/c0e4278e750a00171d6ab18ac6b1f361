@@ -1,0 +1,9 @@
+package combineCol;
+
+public class InitCol {
+
+	public static void main(String[] args) {
+
+	}
+
+}
