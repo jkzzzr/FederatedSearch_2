@@ -1,4 +1,4 @@
-# Federated_search_
+# FederatedSearch_2
 包含了许多内容的代码！完成了k-means分类，p1,p2等
 ### K-means：包含了对数据集用K-means分类的代码，其中：</br>
   #### K_Means包：</br>
