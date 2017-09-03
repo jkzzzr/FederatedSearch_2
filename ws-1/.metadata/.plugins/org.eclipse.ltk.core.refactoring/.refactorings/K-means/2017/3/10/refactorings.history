@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete 4 elements from project &apos;K-means&apos;&#x0A;- Original project: &apos;K-means&apos;&#x0A;- Original elements:&#x0A;     K-means/src/(default package)&#x0A;     K-means/src/filterCollection&#x0A;     K-means/src/K_means&#x0A;     K-means/src/Structure&#x0A;- Delete subpackages" description="Delete elements" element1="/src&lt;filterCollection" element2="/src&lt;Structure.type" element3="/src&lt;Structure" element4="/src&lt;K_means" element5="/src&lt;" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1488745096162" subPackages="true" version="1.0"/>
-</session>

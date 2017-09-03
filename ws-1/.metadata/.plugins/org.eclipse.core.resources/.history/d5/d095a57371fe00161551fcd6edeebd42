@@ -1,8 +1,0 @@
-package K_means;
-
-public class AllPath {
-	public static String outputPath_Centroid = "/home/Lee/data/Ooutput/centroid/centroid";
-	public static String outputPath_Type = "/home/Lee/data/Ooutput/type";
-	public static double percent = 0.0001;
-	public static double percent_Centroid_List = 0.01;
-}
